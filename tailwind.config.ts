@@ -1,5 +1,5 @@
 import type { Config } from "tailwindcss";
-import * as tailwindAnimate from "tailwindcss-animate";
+import tailwindAnimate from "tailwindcss-animate";
 import tailwindTypography from "@tailwindcss/typography";
 
 const config: Config = {

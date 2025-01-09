@@ -1,5 +1,5 @@
 import Image from "next/image";
-import logo from "../../public/YCDirectory.svg";
+import logo from "../public/YCDirectory.svg";
 import { auth, signIn, signOut } from "@/auth";
 import Link from "next/link";
 
